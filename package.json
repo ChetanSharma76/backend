@@ -1,0 +1,12 @@
+{
+  "name": "webdevbackend",
+  "version": "1.0.0",
+  "description": "this is a backend project",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chetan Sharma",
+  "license": "ISC"
+}
